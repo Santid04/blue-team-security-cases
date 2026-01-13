@@ -5,7 +5,8 @@
 Este repositorio documenta casos prácticos de análisis de seguridad desde una perspectiva Blue Team / SOC.  
 Los escenarios están basados en entornos Linux reales y simulan actividades sospechosas e incidentes de seguridad, incluyendo detección, análisis, respuesta y documentación del evento.
 
-El objetivo del repositorio es demostrar criterio analítico, lectura de logs y capacidad de evaluación de impacto, más allá del uso de herramientas específicas.
+El objetivo del repositorio es demostrar criterio analítico, lectura de logs, correlación de eventos y capacidad de evaluación de impacto, más allá del uso de herramientas específicas.
+
 
 ---
 
