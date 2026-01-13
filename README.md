@@ -27,7 +27,6 @@ El objetivo del repositorio es demostrar criterio analítico, lectura de logs y 
 - Revocación de accesos y contención del incidente.
 
 📁 [Ver caso](./case-02-security-incident/)
-
 ---
 
 ## Alcance
